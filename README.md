@@ -1,2 +1,1 @@
-# html_css
-html css reference
+html css sandbox for future reference
